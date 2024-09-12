@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: "Home"
+title: "Home for UMLS"
 ---
 
 # Welcome to the UMLS Python Client
