@@ -14,4 +14,4 @@ This API client simplifies access to UMLS data for healthcare developers and res
 
 Explore the full documentation on [GitHub](https://github.com/palasht75/umls-client).
 
-[Get Started](/docs) | [About the Project](/about)
+[Get Started](/umls-python-client-homepage/docs) | [About the Project](/umls-python-client-homepage/about)
