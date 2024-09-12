@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: "Home"
+---
+
 # Welcome to the UMLS Python Client
 
 ### Simplifying Healthcare Data Access with Python
