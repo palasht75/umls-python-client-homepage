@@ -1,6 +1,12 @@
-title: "My UMLS API Client Project"
-description: "A UMLS API Client for interacting with healthcare data"
-theme: jekyll-theme-cayman  # Specify the theme here
+title: "UMLS API Client"
+description: "Interact with UMLS data"
+theme: jekyll-theme-cayman
 author: Palash Thakur
 email: palasht75@gmail.com
 repository: https://github.com/palasht75/umls-client
+
+# Navigation Links
+header_pages:
+  - index.md
+  - docs.md
+  - about.md
