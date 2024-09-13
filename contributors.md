@@ -5,9 +5,9 @@ title: "Contributors"
 
 # Contributors
 
-## Palash Thakkar
+## Palash Thakur
 
-![Palash Thakkar](images/palash_thakkar.jpg)
+![Palash Thakur](umls-python-client-homepage\images\satoru-gojo-5120x2880-25301.png)
 
 *Bio:* Palash is the main developer of the UMLS Python Client, with a passion for healthcare and technology. He specializes in building user-friendly tools for accessing complex medical datasets.
 
