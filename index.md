@@ -84,5 +84,5 @@ For complete API documentation and usage examples, visit the [UMLS Python Client
 ## Contribute
 This project is open source, and contributions are welcome! If you have any improvements or new ideas, feel free to open a pull request.
 
-[Get Started](/docs) | [About the Project](/about)
+[Get Started](/umls-python-client-homepage/docs) | [About the Project](/umls-python-client-homepage/about)
 
