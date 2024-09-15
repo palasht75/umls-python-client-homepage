@@ -14,7 +14,7 @@ header_pages:
   - docs.md
   - about.md
   - contributors.md
-  - sourceAPI
-  - crosswalkAPI
-  - searchAPI
-  - semanticAPI
+  - sourceAPI.md
+  - crosswalkAPI.md
+  - searchAPI.md
+  - semanticNetworkAPI.md
