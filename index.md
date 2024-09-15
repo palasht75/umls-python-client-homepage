@@ -122,7 +122,7 @@ search_api = UMLSClient(api_key=api_key).searchAPI
 #############################
 logger.info("Performing a basic search query for the term 'diabetes':")
 search_results = search_api.search(
-    search_string="diabetes",  # The term to search for
+    search_string="diabetes"
 )
 print(f"Search Results for 'diabetes': {search_results}")
 ```
