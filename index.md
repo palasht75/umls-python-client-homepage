@@ -110,13 +110,21 @@ You can explore the available APIs below:
 Here's a quick example of how to use the **SearchAPI** to find information about "diabetes":
 
 ```python
-from umls_python_client import SearchAPI
+from umls_python_client import UMLSClient
 
 api_key = "YOUR_API_KEY"
-search_api = SearchAPI(api_key=api_key)
 
-results = search_api.search_terms(query="diabetes", source="SNOMEDCT_US")
-print(results)
+# Initialize the SearchAPI class with your API key
+search_api = UMLSClient(api_key=api_key).searchAPI
+
+#############################
+# Perform a Basic Search
+#############################
+logger.info("Performing a basic search query for the term 'diabetes':")
+search_results = search_api.search(
+    search_string="diabetes",  # The term to search for
+)
+print(f"Search Results for 'diabetes': {search_results}")
 ```
 
 *For more examples, please refer to our [documentation](/umls-python-client-homepage/searchAPI) and interactive notebooks.*
