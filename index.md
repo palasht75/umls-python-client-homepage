@@ -78,12 +78,9 @@ Map codes between different terminologies and vocabularies in healthcare.
    - Semantic Network API: `umls_client.semanticNetworkAPI`
    - Crosswalk API: `umls_client.crosswalkAPI`
 
-## Documentation
-For complete API documentation and usage examples, visit the [UMLS Python Client GitHub Repository](https://github.com/palasht75/umls-client).
 
 ## Contribute
 This project is open source, and contributions are welcome! If you have any improvements or new ideas, feel free to open a pull request.
 
-[Get Started](/umls-python-client-homepage/docs) | [About the Project](/umls-python-client-homepage/about) | [Contributors](/umls-python-client-homepage/contributors) 
-[SourceAPI docs](/umls-python-client-homepage/sourceAPI)
+[About the Project](/umls-python-client-homepage/about) | [Contributors](/umls-python-client-homepage/contributors) 
 
