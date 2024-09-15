@@ -13,3 +13,4 @@ header_pages:
   - contributors.md
   - sourceAPI
   - crosswalkAPI
+  - searchAPI
