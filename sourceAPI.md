@@ -9,7 +9,7 @@ The `SourceAPI` in the `UMLS Python Client` provides a comprehensive set of meth
 
 ## Prerequisites
 
-Before using the API, ensure you have your API key stored in an environment variable and have installed the necessary dependencies.
+Before using the API, ensure you have your API key to inetract with UMLS database. If you don't have an API key, you can get one from [User Authentication](https://documentation.uts.nlm.nih.gov/rest/authentication.html).
 
 ## Setting Up
 
@@ -17,10 +17,10 @@ Here is how to set up the `SourceAPI` class:
 
 ```python
 import os
-from umls_python_client.umls_client import UMLSClient
+from umls_python_client import UMLSClient
 
-# Fetch the API key from environment variables
-API_KEY = os.getenv("API_KEY")
+# Set the API KEY
+API_KEY = "API_KEY_HERE"
 
 # Folder path to save files
 PATH = r"C:\path\to\your\output\directory"
