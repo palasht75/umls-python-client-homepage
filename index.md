@@ -69,14 +69,18 @@ Map codes between different terminologies and vocabularies in healthcare.
    umls_client = UMLSClient(api_key=api_key)
    ```
 
-3. **Explore the APIs**  
-   You can explore the available APIs as follows:
+## 3. Explore the APIs
 
-   - [SearchAPI docs](/umls-python-client-homepage/searchAPI) | [SearchAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
-   - [SourceAPI docs](/umls-python-client-homepage/sourceAPI) | [SourceAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
-   - [CUIAPI docs](/) | [CUIAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
-   - [SemanticNetworkAPI docs](/umls-python-client-homepage/semanticNetworkAPI) | [SemanticNetworkAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
-   - [CrosswalkAPI docs](/umls-python-client-homepage/crosswalkAPI) | [CrosswalkAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
+You can explore the available APIs below:
+
+| API Name               | Documentation Link                                                  | Colab Notebook Link                                                                                                                                     |
+|------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SearchAPI**          | [/searchAPI](/umls-python-client-homepage/searchAPI)                | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                                                              |
+| **SourceAPI**          | [/sourceAPI](/umls-python-client-homepage/sourceAPI)                | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                                                              |
+| **CUIAPI**             | [/CUIAPI](/umls-python-client-homepage/CUIAPI)                      | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                                                              |
+| **SemanticNetworkAPI** | [/semanticNetworkAPI](/umls-python-client-homepage/semanticNetworkAPI) | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                                                              |
+| **CrosswalkAPI**       | [/crosswalkAPI](/umls-python-client-homepage/crosswalkAPI)          | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                                                              |
+
 
 
 ## Contribute
