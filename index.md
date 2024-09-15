@@ -124,7 +124,7 @@ print(results)
 
 - **PyPI Package**: [UMLS Python Client on PyPI](https://pypi.org/project/umls-python-client/1.0.3/)
 - **UMLS REST APIs Home**: [UMLS API Documentation](https://documentation.uts.nlm.nih.gov/rest/home.html)
-- **Project Repository**: [GitHub Repository](https://github.com/your-repo/umls-python-client) *(Replace with actual URL)*
+- **Project Repository**: [GitHub Repository](https://github.com/your-repo/umls-python-client)
 
 ## Contribute
 
@@ -139,6 +139,6 @@ We are committed to maintaining and updating this client to support all future c
 
 ## Contact Us
 
-For any questions or support, please contact us at [your-email@example.com](mailto:your-email@example.com). *(Replace with your actual email)*
+For any questions or support, please contact us at [palasht75@gmail.com](palasht75@gmail.com).
 
 ---
