@@ -102,7 +102,7 @@ You can explore the available APIs below:
 | **CUIAPI**             | Retrieve Concept Unique Identifier information.  | <a href="/umls-python-client-homepage/CUIAPI" target="_blank">/CUIAPI</a>                 | <a href="https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0" target="_blank">Open in Colab</a>                          |
 | **SourceAPI**          | Access source-specific content in UMLS.          | <a href="/umls-python-client-homepage/sourceAPI" target="_blank">/sourceAPI</a>           | <a href="https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing" target="_blank">Open in Colab</a>                          |
 | **SemanticNetworkAPI** | Explore semantic relationships.                  | <a href="/umls-python-client-homepage/semanticNetworkAPI" target="_blank">/semanticNetworkAPI</a> | <a href="https://colab.research.google.com/drive/1fax_gKwGuNl6SamHiCEZ2nHeuahm3_tX?usp=sharing" target="_blank">Open in Colab</a>                          |
-                        |
+| **CrosswalkAPI**       | Map concepts across vocabularies.                | <a href="/umls-python-client-homepage/crosswalkAPI" target="_blank">/crosswalkAPI</a>     | <a href="https://colab.research.google.com/drive/1XWu1c3HTUcxJTyHDootYGLw7GTUkEURM?usp=sharing" target="_blank">Open in Colab</a>                          |
 
 *Click on the documentation links to learn more about each API and use the Colab notebooks to try them out interactively.*
 ## Example Usage
