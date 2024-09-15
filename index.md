@@ -77,20 +77,20 @@ Map codes between different terminologies and vocabularies in healthcare.
 
 Install the UMLS Python Client using pip:
 
-\`\`\`bash
+```bash
 pip install umls-python-client
-\`\`\`
+```
 
 ### 2. Initialize the Client
 
 Initialize the \`UMLSClient\` with your API key:
 
-\`\`\`python
+```python
 from umls_python_client import UMLSClient
 
 api_key = "YOUR_API_KEY"
 umls_client = UMLSClient(api_key=api_key)
-\`\`\`
+```
 
 ### 3. Explore the APIs
 
@@ -109,7 +109,7 @@ You can explore the available APIs below:
 
 Here's a quick example of how to use the **SearchAPI** to find information about "diabetes":
 
-\`\`\`python
+```python
 from umls_python_client import SearchAPI
 
 api_key = "YOUR_API_KEY"
@@ -117,7 +117,7 @@ search_api = SearchAPI(api_key=api_key)
 
 results = search_api.search_terms(query="diabetes", source="SNOMEDCT_US")
 print(results)
-\`\`\`
+```
 
 *For more examples, please refer to our [documentation](/umls-python-client-homepage/searchAPI) and interactive notebooks.*
 ## Documentation and Resources
@@ -125,13 +125,6 @@ print(results)
 - **PyPI Package**: [UMLS Python Client on PyPI](https://pypi.org/project/umls-python-client/1.0.3/)
 - **UMLS REST APIs Home**: [UMLS API Documentation](https://documentation.uts.nlm.nih.gov/rest/home.html)
 - **Project Repository**: [GitHub Repository](https://github.com/your-repo/umls-python-client) *(Replace with actual URL)*
-
-## Contribute
-
-We welcome contributions from the community! If you have any improvements or new ideas, feel free to open a pull request or an issue on our GitHub repository.
-
-- [About the Project](/umls-python-client-homepage/about)
-- [Contributors](/umls-python-client-homepage/contributors)
 
 ## Contribute
 
