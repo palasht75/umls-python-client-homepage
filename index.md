@@ -83,7 +83,7 @@ pip install umls-python-client
 
 ### 2. Initialize the Client
 
-Initialize the \`UMLSClient\` with your API key:
+Initialize the `UMLSClient` with your API key:
 
 ```python
 from umls_python_client import UMLSClient
@@ -138,7 +138,7 @@ print(f"Search Results for 'diabetes': {search_results}")
 
 We welcome contributions from the community! If you have any improvements or new ideas, feel free to open a pull request or an issue on our GitHub repository.
 
-- [About the Project](/umls-python-client-homepage/about)
+- <a href="/umls-python-client-homepage/about" target="_blank">About the Project</a>
 - [Contributors](/umls-python-client-homepage/contributors)
 
 ## Support and Future Updates
