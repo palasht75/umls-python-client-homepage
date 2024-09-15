@@ -73,7 +73,7 @@ Map codes between different terminologies and vocabularies in healthcare.
    You can explore the available APIs as follows:
 
    - Search API: `umls_client.searchAPI`
-   - Source API: `umls_client.sourceAPI`
+   - [SourceAPI docs](/umls-python-client-homepage/sourceAPI) | [SourceAPI Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)
    - CUI API: `umls_client.cuiAPI`
    - Semantic Network API: `umls_client.semanticNetworkAPI`
    - Crosswalk API: `umls_client.crosswalkAPI`
