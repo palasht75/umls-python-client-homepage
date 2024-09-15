@@ -98,11 +98,11 @@ You can explore the available APIs below:
 
 | API Name               | Description                                      | Documentation Link                                             | Colab Notebook Link                                                                                                 |
 |------------------------|--------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **SearchAPI**          | Search the UMLS database for terms and concepts. | [/searchAPI](/umls-python-client-homepage/searchAPI)           | [Open in Colab](https://colab.research.google.com/drive/1E70yM0It0qjfV_qit2qX83e9NB39lOzq?usp=sharing)                          |
-| **CUIAPI**             | Retrieve Concept Unique Identifier information.  | [/CUIAPI](/umls-python-client-homepage/CUIAPI)                 | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0)                          |
-| **SourceAPI**          | Access source-specific content in UMLS.          | [/sourceAPI](/umls-python-client-homepage/sourceAPI)           | [Open in Colab](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing)                          |
-| **SemanticNetworkAPI** | Explore semantic relationships.                  | [/semanticNetworkAPI](/umls-python-client-homepage/semanticNetworkAPI) | [Open in Colab](https://colab.research.google.com/drive/1fax_gKwGuNl6SamHiCEZ2nHeuahm3_tX?usp=sharing)                          |
-| **CrosswalkAPI**       | Map concepts across vocabularies.                | [/crosswalkAPI](/umls-python-client-homepage/crosswalkAPI)     | [Open in Colab](https://colab.research.google.com/drive/1XWu1c3HTUcxJTyHDootYGLw7GTUkEURM?usp=sharing)                          |
+| **SearchAPI**          | Search the UMLS database for terms and concepts. | <a href="/umls-python-client-homepage/searchAPI" target="_blank">/searchAPI</a>           | <a href="https://colab.research.google.com/drive/1E70yM0It0qjfV_qit2qX83e9NB39lOzq?usp=sharing" target="_blank">Open in Colab</a>                          |
+| **CUIAPI**             | Retrieve Concept Unique Identifier information.  | <a href="/umls-python-client-homepage/CUIAPI" target="_blank">/CUIAPI</a>                 | <a href="https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0" target="_blank">Open in Colab</a>                          |
+| **SourceAPI**          | Access source-specific content in UMLS.          | <a href="/umls-python-client-homepage/sourceAPI" target="_blank">/sourceAPI</a>           | <a href="https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing" target="_blank">Open in Colab</a>                          |
+| **SemanticNetworkAPI** | Explore semantic relationships.                  | <a href="/umls-python-client-homepage/semanticNetworkAPI" target="_blank">/semanticNetworkAPI</a> | <a href="https://colab.research.google.com/drive/1fax_gKwGuNl6SamHiCEZ2nHeuahm3_tX?usp=sharing" target="_blank">Open in Colab</a>                          |
+                        |
 
 *Click on the documentation links to learn more about each API and use the Colab notebooks to try them out interactively.*
 ## Example Usage
@@ -130,16 +130,16 @@ print(f"Search Results for 'diabetes': {search_results}")
 *For more examples, please refer to our [documentation](/umls-python-client-homepage/searchAPI) and interactive notebooks.*
 ## Documentation and Resources
 
-- **PyPI Package**: [UMLS Python Client on PyPI](https://pypi.org/project/umls-python-client/1.0.3/)
-- **UMLS REST APIs Home**: [UMLS API Documentation](https://documentation.uts.nlm.nih.gov/rest/home.html)
-- **Project Repository**: [GitHub Repository](https://github.com/your-repo/umls-python-client)
+- **PyPI Package**: <a href="https://pypi.org/project/umls-python-client/1.0.3/" target="_blank">UMLS Python Client on PyPI</a>
+- **UMLS REST APIs Home**: <a href="https://documentation.uts.nlm.nih.gov/rest/home.html" target="_blank">UMLS API Documentation</a>
+- **Project Repository**: <a href="https://github.com/your-repo/umls-python-client" target="_blank">GitHub Repository</a>
 
 ## Contribute
 
 We welcome contributions from the community! If you have any improvements or new ideas, feel free to open a pull request or an issue on our GitHub repository.
 
 - <a href="/umls-python-client-homepage/about" target="_blank">About the Project</a>
-- [Contributors](/umls-python-client-homepage/contributors)
+- <a href="/umls-python-client-homepage/contributors" target="_blank">Contributors</a>
 
 ## Support and Future Updates
 
