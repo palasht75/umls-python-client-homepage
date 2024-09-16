@@ -9,7 +9,7 @@ The `SemanticNetworkAPI` in the `UMLS Python Client` allows you to retrieve sema
 
 ## Prerequisites
 
-Ensure you have an API key from the UMLS. You can get one from [User Authentication](https://documentation.uts.nlm.nih.gov/rest/authentication.html).
+Before using the API, ensure you have your API key to interact with the UMLS database. If you don't have an API key, you can obtain one from the [UMLS User Authentication page](https://documentation.uts.nlm.nih.gov/rest/authentication.html).
 
 ## Setting Up
 
