@@ -7,18 +7,6 @@ title: "Contributors"
 
 ## Palash Thakur
 
-![Palash Thakur](/umls-python-client-homepage/images/satoru-gojo-5120x2880-25301.png)
+![Palash Thakur](/umls-python-client-homepage/images/palasht75.png)
 
 *Bio:* Palash is the main developer of the UMLS Python Client, with a passion for healthcare and technology. He specializes in building user-friendly tools for accessing complex medical datasets.
-
-## Jane Doe
-
-![Jane Doe](images/jane_doe.jpg)
-
-*Bio:* Jane is a software engineer who contributed significantly to the API optimization and error handling mechanisms in the UMLS Python Client.
-
-## John Smith
-
-![John Smith](images/john_smith.jpg)
-
-*Bio:* John is a healthcare data analyst who helped integrate various healthcare terminologies and ensured compliance with healthcare data standards.
