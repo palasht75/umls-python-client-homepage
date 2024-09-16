@@ -130,20 +130,19 @@ print(f"Search Results for 'diabetes': {search_results}")
 *For more examples, please refer to our [documentation](/umls-python-client-homepage/searchAPI) and interactive notebooks.*
 ## Documentation and Resources
 
-- **PyPI Package**: <a href="https://pypi.org/project/umls-python-client/1.0.3/" target="_blank">UMLS Python Client on PyPI</a>
+- **PyPI Package**: <a href="https://pypi.org/project/umls-python-client" target="_blank">UMLS Python Client on PyPI</a>
 - **UMLS REST APIs Home**: <a href="https://documentation.uts.nlm.nih.gov/rest/home.html" target="_blank">UMLS API Documentation</a>
-- **Project Repository**: <a href="https://github.com/your-repo/umls-python-client" target="_blank">GitHub Repository</a>
+- **Project Repository**: <a href="https://github.com/palasht75/umls-python-client" target="_blank">GitHub Repository</a>
 
 ## Contribute
 
 We welcome contributions from the community! If you have any improvements or new ideas, feel free to open a pull request or an issue on our GitHub repository.
 
-- <a href="/umls-python-client-homepage/about" target="_blank">About the Project</a>
 - <a href="/umls-python-client-homepage/contributors" target="_blank">Contributors</a>
 
 ## Support and Future Updates
 
-We are committed to maintaining and updating this client to support all future changes in the UMLS APIs. If you encounter any issues or have feature requests, please open an issue on our [GitHub repository](https://github.com/your-repo/umls-python-client).
+We are committed to maintaining and updating this client to support all future changes in the UMLS APIs. If you encounter any issues or have feature requests, please open an issue on our [GitHub repository](https://github.com/palasht75/umls-python-client/issues).
 
 ## Contact Us
 
