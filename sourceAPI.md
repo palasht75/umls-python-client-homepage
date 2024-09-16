@@ -11,8 +11,6 @@ The `SourceAPI` in the `UMLS Python Client` provides a comprehensive set of meth
 
 Before using the API, ensure you have your API key to interact with the UMLS database. If you don't have an API key, you can obtain one from the [UMLS User Authentication page](https://documentation.uts.nlm.nih.gov/rest/authentication.html).
 
-If you wish to run it right away, please follow this [Colab Notebook](https://colab.research.google.com/drive/1ICQFoZqfsW6YvcaoRo-DtZR2QAWmqFI0?usp=sharing).
-
 ## Setting Up
 
 Here is how to set up the `SourceAPI` class:
